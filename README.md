@@ -122,13 +122,10 @@ The main objectives of this project are:
                             └───────────────┘
 
 
-# 🎬 Movie Knowledge Assistant
 
-An end-to-end **Retrieval-Augmented Generation (RAG)** application for natural-language movie discovery and recommendation.
 
-The system combines **semantic vector search, BM25 keyword search, hybrid retrieval, LLM generation, evaluation, user feedback, monitoring, and Docker containerization**.
 
----
+
 
 ## 📊 Dataset
 
