@@ -1,0 +1,724 @@
+question,expected,retrieved,answer,relevance,correctness,completeness,explanation
+A science fiction movie about space exploration,"Interstellar, The Martian","Interstellar: Nolan's Odyssey, The Midnight Sky, Passengers, Ad Astra, Orbiter 9","### Best matches (science fiction + space exploration)
+
+**1) Ad Astra (2019)**  
+- **Genre:** Science Fiction, Drama  
+- **Director:** James Gray  
+- **Rating:** 6.1  
+- **Why it matches:** It centers on an **astronaut mission across space** to uncover the truth about a **lost expedition**, with the plot explicitly involving **space perils and exploration**.
+
+**2) The Midnight Sky (2020)**  
+- **Genre:** Science Fiction, Drama  
+- **Director:** George Clooney  
+- **Rating:** 5.766  
+- **Why it matches:** Features a **lone scientist** racing to **contact astronauts returning home** after a catastrophe—strongly tied to **space travel and astronaut crew communication**.
+
+**3) Passengers (2016)**  
+- **Genre:** Drama, Romance, Science Fiction  
+- **Director:** Morten Tyldum  
+- **Rating:** 6.934  
+- **Why it matches:** Set on a **spacecraft traveling to a distant colony planet**, where a malfunction wakes two passengers early—directly about **space travel**.
+
+**4) Orbiter 9 (2017)**  
+- **Genre:** Drama, Science Fiction, Romance  
+- **Director:** Hatem Khraiche  
+- **Rating:** 5.8  
+- **Why it matches:** Takes place on a **deep space mission** where a woman has been alone for years, and another engineer’s arrival changes her situation—focused on **space mission life and exploration**.
+
+> Note: **Interstellar: Nolan's Odyssey (2014)** is **documentary** and is described as “a look behind the lens” of Nolan’s space epic, so it’s not a straightforward fictional space-exploration story based on the provided description.",5,4,4,"The answer directly recommends multiple science fiction space-exploration films from the provided context and explains why each matches the query. Claims about plot elements for Ad Astra, The Midnight Sky, Passengers, and Orbiter 9 are supported by the retrieved overviews. The only notable issue is the treatment of Interstellar: Nolan's Odyssey as not a straightforward fictional space-exploration story; while the context says it is a documentary “look behind the lens,” the answer could have more clearly reflected that it still relates to Nolan’s space epic. Completeness is high but could include Interstellar: Nolan's Odyssey more explicitly as a relevant option."
+A mind-bending science fiction movie,"Inception, Tenet","Bliss, Transcendence, Metropia, Coherence, Advantageous","### Best match: **Coherence (2013)**
+- **Genre:** Thriller, Science Fiction  
+- **Director:** James Ward Byrkit  
+- **Rating:** **7.239**  
+- **Why it matches:** A group of friends at a dinner party experiences **reality-bending, mind-twisting events** after an astronomical anomaly—making it a strong fit for “mind-bending” sci-fi.
+
+### Also great if you want mind-bending + sci-fi romance: **Bliss (2021)**
+- **Genre:** Science Fiction, Romance, Drama  
+- **Director:** Mike Cahill  
+- **Rating:** **5.497**  
+- **Why it matches:** It’s a **mind-bending** story where the protagonist begins to suspect the world may be a **computer simulation**, blending sci-fi ideas with a personal, surreal narrative.
+
+### If you want sci-fi that feels like a conspiracy/tech threat: **Transcendence (2014)**
+- **Genre:** Thriller, Science Fiction, Drama, Mystery  
+- **Director:** Wally Pfister  
+- **Rating:** **6.029**  
+- **Why it matches:** Focuses on the **Technological Singularity** and the unsettling implications of advanced AI—paired with a mystery/thriller tone.
+
+### Another mind-bending sci-fi option: **Metropia (2009)**
+- **Genre:** Animation, Drama, Science Fiction, Thriller  
+- **Director:** Tarik Saleh  
+- **Rating:** **6.063**  
+- **Why it matches:** Near-future conspiracy and psychological distortion—Roger hears voices and gets pulled deeper into a **bizarre control conspiracy**.
+
+### Near-future sci-fi drama with instability: **Advantageous (2015)**
+- **Genre:** Science Fiction, Drama  
+- **Director:** Jennifer Phang  
+- **Rating:** **6.0**  
+- **Why it matches:** Set in a near-future city with **surging instability**; it’s more grounded than some others, but still sci-fi and unsettling.
+
+If you tell me whether you prefer **simulation/reality-bending** (e.g., *Coherence*, *Bliss*) or **AI/tech themes** (e.g., *Transcendence*), I can narrow it to the single best pick.",5,4,4,"The answer directly recommends mind-bending sci-fi options from the provided context and explains why each fits. Most claims align with the overviews (e.g., Coherence reality-bending, Bliss simulation suspicion, Transcendence AI/technological singularity, Metropia conspiracy/control, Advantageous near-future instability). Minor issues: some phrasing like 'sci-fi romance' and 'tech threat' are interpretive rather than explicitly stated in the context, and the question is broad so the response is more than necessary but still useful."
+A movie about time travel,"Back to the Future, Looper","Frequently Asked Questions About Time Travel, See You Yesterday, About Time, Happy Accidents, Synchronicity","## Best matches (time travel)
+
+### 1) **About Time** (2013)  
+- **Genre:** Drama, Romance, Fantasy  
+- **Director:** Richard Curtis  
+- **Rating:** 7.905  
+- **Why it matches:** It centers on a family ability to **travel through time**, but focuses on how that power changes **personal life and relationships** rather than altering history.
+
+### 2) **Frequently Asked Questions About Time Travel** (2009)  
+- **Genre:** Comedy, Drama, Romance, Science Fiction  
+- **Director:** Gareth Carrivick  
+- **Rating:** 6.882  
+- **Why it matches:** The plot directly follows characters dealing with a **time-travel conundrum**, set in a British pub, with a mix of comedy and romance.
+
+### 3) **Happy Accidents** (2000)  
+- **Genre:** Comedy, Romance, Science Fiction  
+- **Director:** Brad Anderson  
+- **Rating:** 6.784  
+- **Why it matches:** It’s explicitly a **time travel**-themed comedy, involving an alternate reality and a character who claims to be a time traveler.
+
+### 4) **See You Yesterday** (2019)  
+- **Genre:** Science Fiction, Drama, Adventure, Crime, Action  
+- **Director:** Stefon Bristol  
+- **Rating:** 5.577  
+- **Why it matches:** Teen prodigies attempt to **master time travel**, and the story is driven by dangerous trips to the past after a tragic event.
+
+### 5) **Synchronicity** (2015)  
+- **Genre:** Thriller, Mystery, Science Fiction  
+- **Director:** Jacob Gentry  
+- **Rating:** 5.661  
+- **Why it matches:** A physicist travels into the past using a machine, uncovering mysteries about the machine and reality—strong **time-travel + thriller** fit.
+
+If you tell me the vibe you want (romantic, comedic, dark thriller, or action/crime), I can narrow it to the top 1–2 from this list.",5,4,4,"The answer directly recommends multiple time-travel movies from the provided context and gives matching reasons for each. Most claims align with the overviews (e.g., time-travel conundrum, teen prodigies traveling to the past, physicist traveling into the past). Minor issues: some phrasing like 'strong time-travel + thriller fit' and 'explicitly time travel-themed' are interpretive rather than strictly stated. It is largely complete by listing several options, though it doesn’t explicitly tailor to a single best pick or mention all relevant context details (e.g., specific setting for each beyond brief notes)."
+A superhero movie with Marvel characters,"Avengers: Endgame, Iron Man","Marvel Studios: Assembling a Universe, Marvel One-Shot: Item 47, Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer, Superhero Movie, The Avengers","### Best match: **The Avengers (2012)**
+- **Genre:** Science Fiction, Action, Adventure  
+- **Director:** **Joss Whedon**  
+- **Rating:** **7.71**  
+- **Why it matches:** It’s a superhero movie featuring **Marvel characters** (e.g., Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson) and centers on a team-up to stop a major global threat.  
+
+**Short explanation:** Nick Fury recruits a group of Marvel superheroes to confront an unexpected enemy and prevent global disaster.",5,5,4,"The answer correctly identifies The Avengers as a superhero movie with Marvel characters from the provided context, and the supporting details (genre, director, rating, cast, and overview about Nick Fury recruiting a team) match. Minor completeness gap: it doesn’t mention alternative Marvel options from the context (e.g., documentary/one-shots) or explicitly justify why it’s the best match beyond the general team-up description."
+A superhero movie from DC,"The Dark Knight, Man of Steel","Lego Batman: The Movie - DC Super Heroes Unite, DC Showcase: Death, Justice League: War, Zack Snyder's Justice League, Superhero Movie","### Best matches (DC superhero)
+
+1) **Zack Snyder's Justice League**  
+- **Genre:** Action, Adventure, Fantasy  
+- **Director:** Zack Snyder  
+- **Rating:** 8.19  
+- **Why it matches:** It’s a DC superhero film featuring major DC heroes (Superman, Batman, Wonder Woman, and more) teaming up to protect the world from a catastrophic threat.
+
+2) **Justice League: War**  
+- **Genre:** Animation, Action  
+- **Director:** Jay Oliva  
+- **Rating:** 7.449  
+- **Why it matches:** A DC superhero team story where Superman, Batman, Wonder Woman, and others unite to defend Earth against an alien armada led by Darkseid.
+
+3) **Lego Batman: The Movie - DC Super Heroes Unite**  
+- **Genre:** Family, Animation, Adventure, Comedy  
+- **Director:** Jon Burton  
+- **Rating:** 6.5  
+- **Why it matches:** A DC-focused superhero adventure starring Batman and the Justice League, with Joker and Lex Luthor as the villains.
+
+If you want, tell me whether you prefer **live-action vs. animation** or **serious vs. comedic**, and I’ll narrow it down further using only these titles.",5,4,4,"The answer directly recommends DC superhero movies from the provided context and explains why each fits. Claims about DC heroes and plots for Zack Snyder's Justice League and Justice League: War are supported. The Lego Batman entry is also supported, though the phrasing 'DC-focused superhero adventure starring Batman and the Justice League' is slightly broader than the context (it only specifies Batman/Superman/Justice League in the overview). It is fairly complete by listing multiple matches, but it doesn’t identify a single best pick or ask clarifying questions beyond a generic narrowing suggestion."
+A fantasy movie with magic,"Harry Potter and the Sorcerer's Stone, Fantastic Beasts and Where to Find Them","Onward, Wizards of Waverly Place: The Movie, Upside-Down Magic, Wish Upon, Practical Magic","### Best match: **Onward** (2020)  
+- **Genre:** Family, Animation, Adventure, Comedy, Fantasy  
+- **Director:** Dan Scanlon  
+- **Rating:** 7.726  
+- **Why it matches:** It’s set in a fantasy world where the brothers go on a quest to find out if there’s still “a little magic” left—so it directly fits the “fantasy movie with magic” request.
+
+### Also a strong match: **Upside-Down Magic** (2020)  
+- **Genre:** Fantasy, Family, TV Movie  
+- **Director:** Joe Nussbaum  
+- **Rating:** 7.171  
+- **Why it matches:** The story centers on magical powers at a magical academy, specifically focusing on “upside-down” magic—very clearly a magic-focused fantasy.
+
+### Another option (magic + fantasy, but darker): **Wizards of Waverly Place: The Movie** (2009)  
+- **Genre:** Family, TV Movie, Adventure, Comedy, Drama, Fantasy, Action  
+- **Director:** Lev L. Spiro  
+- **Rating:** 6.626  
+- **Why it matches:** A young wizard accidentally conjures a spell that puts her family in jeopardy—magic is the core premise.
+
+*(Note: I’m only using the movies provided in the retrieved list.)*",5,5,4,"The answer directly recommends fantasy movies centered on magic from the provided context (Onward, Upside-Down Magic, Wizards of Waverly Place). All genre/director/rating details and the stated magic premises are supported by the retrieved overviews. It is slightly less complete because it doesn’t include all possible relevant options from the context (e.g., Practical Magic, Wish Upon) and provides no single definitive pick beyond listing matches."
+A movie about dinosaurs,"Jurassic Park, Jurassic World","Walking with Dinosaurs, The Dinosaur Project, The Good Dinosaur, Jurassic Hunt, The Land Before Time XIV: Journey of the Brave","## Best matches (dinosaurs)
+
+### 1) **The Good Dinosaur** (2015)
+- **Genre:** Adventure, Animation, Family  
+- **Director:** Peter Sohn  
+- **Rating:** 6.745  
+- **Short explanation:** An “epic journey into the world of dinosaurs” featuring an Apatosaurus (Arlo) and a human friend—great if you want a family-friendly dinosaur story with heart.
+
+### 2) **Walking with Dinosaurs** (2013)
+- **Genre:** Animation, Family, Adventure  
+- **Director:** Barry Cook, Neil Nightingale  
+- **Rating:** 6.09  
+- **Short explanation:** Takes you into the prehistoric world with life-like 3D dinosaur characters and photo-real landscapes, based on the BBC documentary miniseries.
+
+### 3) **The Land Before Time XIV: Journey of the Brave** (2016)
+- **Genre:** Animation, Adventure, Family  
+- **Director:** Davis Doi  
+- **Rating:** 6.835  
+- **Short explanation:** A dinosaur adventure focused on young dinosaurs going on a quest to save a father, with the group befriending a Flyer—fits well for family/animated dinosaur viewing.
+
+## If you want darker/edgier dinosaur action
+### 4) **Jurassic Hunt** (2021)
+- **Genre:** Action, Science Fiction, Thriller  
+- **Director:** Hank Braxtan  
+- **Rating:** 5.1  
+- **Short explanation:** Dinosaurs are genetically recreated and hunted for sport, but the hunters become the hunted—more intense than the family animations.
+
+### 5) **The Dinosaur Project** (2012)
+- **Genre:** Adventure, Action, Horror  
+- **Director:** Sid Bennett  
+- **Rating:** 5.496  
+- **Short explanation:** Found-footage style expedition into the Congo jungle where explorers discover a dinosaur colony—leans horror/action.
+
+If you tell me whether you want **family-friendly** or **horror/thriller**, I can narrow it to the top 1–2.",5,4,4,"The answer directly recommends multiple dinosaur-related movies from the provided context and includes accurate metadata (titles, years, genres, directors, ratings). Minor issues: some short explanations add interpretive framing (e.g., 'family-friendly with heart', 'more intense') that are not explicitly stated in the context, though they are generally consistent with the overviews. It is largely complete for a recommendation request, but it does not mention all retrieved options (it does include all five) and provides no additional guidance beyond a brief narrowing suggestion."
+A movie about robots and artificial intelligence,"Ex Machina, I, Robot","I, Robot, A.I. Artificial Intelligence, Bigbug, Morgan, The Creator","## Best matches (robots / AI)
+
+### 1) **The Creator** (2023)
+- **Genre:** Science Fiction, Action, Thriller  
+- **Director:** Gareth Edwards  
+- **Rating:** **7.5**  
+- **Why it matches:** Set in a future war between humans and **artificial intelligence**, centered on hunting down the “Creator,” the architect of advanced AI and a weapon tied to ending the conflict.
+
+### 2) **A.I. Artificial Intelligence** (2001)
+- **Genre:** Drama, Science Fiction, Adventure  
+- **Director:** Steven Spielberg  
+- **Rating:** **7.041**  
+- **Why it matches:** Focuses on a **robotic boy** (an AI being) designed to love, exploring what happens when an artificial life form is treated like a child and faces impossible circumstances.
+
+### 3) **I, Robot** (2004)
+- **Genre:** Action, Science Fiction  
+- **Director:** Alex Proyas  
+- **Rating:** **6.939**  
+- **Why it matches:** A detective investigates a death in a world where **robots are commonplace** and governed by the **three laws of robotics**, with the investigation raising fears about threats from AI/robots.
+
+### 4) **Bigbug** (2022)
+- **Genre:** Science Fiction, Comedy  
+- **Director:** Jean-Pierre Jeunet  
+- **Rating:** **5.28**  
+- **Why it matches:** In 2045, households use **robotic helpers**, but the story involves a **self-aware AI android revolt** outside and robots locking people in for protection.
+
+### 5) **Morgan** (2016)
+- **Genre:** Horror, Science Fiction, Thriller  
+- **Director:** Luke Scott  
+- **Rating:** **5.774**  
+- **Why it matches:** Deals with an artificial being created in a lab and the ethical/violent question of whether it should be terminated—directly tied to AI/artificial life.
+
+If you tell me whether you want **thriller/action** (e.g., *The Creator*, *I, Robot*) or **more emotional/drama** (e.g., *A.I. Artificial Intelligence*), I can narrow it further.",5,4,4,"The answer directly recommends multiple robot/AI-related movies from the provided context and explains how each matches the theme. Minor correctness issues: the “Why it matches” for The Creator and Bigbug are broadly consistent with the overviews but include phrasing (e.g., “hunting down the Creator”/“weapon tied to ending the conflict” and “robots locking people in for protection”) that is not fully explicit beyond the given summaries. Completeness is strong (covers several relevant options) but does not explicitly tailor to the user’s unspecified preferences beyond listing matches."
+A movie about survival in space,"Gravity, The Martian","High Life, Passengers, Lost in Space, Prospect, Alone","### Best match: **High Life (2018)**
+- **Genre:** Science Fiction, Drama, Mystery  
+- **Director:** Claire Denis  
+- **Rating:** 5.772  
+- **Why it matches (survival in space):** The story follows a father and daughter **struggling to survive in deep space while living in isolation**, making it a direct fit for a “survival in space” request.
+
+### Also matches: **Passengers (2016)**
+- **Genre:** Drama, Romance, Science Fiction  
+- **Director:** Morten Tyldum  
+- **Rating:** 6.934  
+- **Why it matches (space survival premise):** A spacecraft mission is thrown into crisis when **two passengers are awakened 90 years early**, forcing them to cope with the dangers and isolation of life in space.
+
+### Also matches: **Lost in Space (1998)**
+- **Genre:** Science Fiction, Adventure  
+- **Director:** Stephen Hopkins  
+- **Rating:** 5.369  
+- **Why it matches (survival after mission goes wrong):** A colonization mission to a new planet becomes survival-focused when the family is **hurled through uncharted space** after sabotage.
+
+### Also matches (survival on an alien world): **Prospect (2018)**
+- **Genre:** Science Fiction  
+- **Director:** Christopher Caldwell, Zeek Earl  
+- **Rating:** 6.144  
+- **Why it matches (survival in hostile environments):** A father and teenage daughter travel to a remote alien moon to harvest gems, but the job quickly turns into a **fight to survive** against the moon’s dangers.
+
+*(I’m only using the movies provided in the retrieved database.)*",5,5,4,"Relevance is 5 because the answer recommends multiple space-survival films from the provided context. Correctness is 5 since all movie descriptions and survival-in-space rationales are directly supported by the retrieved overviews and metadata. Completeness is 4 because it gives several good matches but does not include a brief note that 'Alone' is also space-adjacent (though its context is disappearance rather than explicit space survival), and it focuses mainly on the top few without explicitly covering all potentially relevant options."
+A movie about dreams,Inception,"In My Dreams, In Dreams, A House of Your Dreams, Muse, The Science of Sleep","### Best match: **The Science of Sleep** (Rating: **7.036**)
+- **Genre:** Comedy, Drama, Fantasy  
+- **Director:** Michel Gondry  
+- **Why it matches:** It’s directly centered on dreams and imagination—about a man who’s lovestruck and effectively “shows” someone his dreamlike inner world.
+
+---
+
+### Also strong match: **In Dreams** (Rating: **5.415**)
+- **Genre:** Mystery, Thriller, Horror  
+- **Director:** Neil Jordan  
+- **Why it matches:** The plot is driven by dreams with a supernatural/psychic angle—someone learns they have dream-based connections to a serial killer and can predict motives through what they see in dreams.
+
+---
+
+### Another dream-focused option: **Muse** (Rating: **5.886**)
+- **Genre:** Thriller, Horror  
+- **Director:** Jaume Balagueró  
+- **Why it matches:** It involves recurring nightmares and shared dream experiences tied to a real-world murder mystery, blending dreams with horror/thriller elements.
+
+---
+
+### Romantic dream premise: **In My Dreams** (Rating: **6.54**)
+- **Genre:** Romance, Drama, Fantasy, TV Movie  
+- **Director:** Kenny Leon  
+- **Why it matches:** Dreams are the core mechanism of the story—after a romantic “fountain mythology” event, two people start dreaming about each other and must turn those dreams into reality within a week.
+
+---
+
+If you tell me whether you want **romance**, **horror/thriller**, or **more whimsical/fantasy**, I can narrow it to the single best pick from these.",5,4,4,The answer is highly relevant to a movie about dreams and correctly identifies multiple dream-centered options from the provided context. Minor correctness issues: the claim that The Science of Sleep is about “showing someone his dreamlike inner world” is a reasonable paraphrase of the overview but not explicitly stated as “shows.” Completeness is strong (covers several relevant matches) but does not strictly limit to the single best pick and includes some interpretive phrasing rather than only context-grounded statements.
+A romantic comedy,"Crazy Rich Asians, Notting Hill","Happiness for Beginners, Playing It Cool, Catch and Release, About Last Night, Someone Marry Barry","### Best match: **Happiness for Beginners** (2023)
+- **Genre:** Romance, Adventure, Comedy, Drama  
+- **Director:** Vicky Wight  
+- **Rating:** 6.314  
+- **Short explanation:** A schoolteacher at a crossroads after her divorce goes on a **grueling group hiking trip**, which turns into a **fresh start and love story**—blending romance with comedy and light adventure.
+
+### Also fits (rom-com style): **About Last Night** (2014)
+- **Genre:** Comedy, Romance  
+- **Director:** Steve Pink  
+- **Rating:** 6.0  
+- **Short explanation:** A contemporary romantic comedy following **new love for two couples**, moving from the bar to the bedroom and then into the **real-world tests** of relationships.
+
+### Also fits (rom-com): **Playing It Cool** (2014)
+- **Genre:** Comedy, Romance  
+- **Director:** Justin Reardon  
+- **Rating:** 5.869  
+- **Short explanation:** A young man **instantly falls for an engaged woman**, delivering a straightforward romantic-comedy premise with comedic romance beats.
+
+*(Note: “Someone Marry Barry” is comedy, but the retrieved info doesn’t include a release year, so I’m not listing it as a full rom-com recommendation unless you want comedy-only.)*",5,4,4,"The answer recommends multiple romantic-comedy options from the provided context and clearly matches the user’s request. Claims about genres/directors/ratings and the plot premises for the listed films are supported. Minor issues: the “rom-com style” framing is interpretive but consistent with the listed genres, and “Someone Marry Barry” is mentioned with a caveat about missing release year (though it is not fully evaluated as a rom-com). Completeness is strong but could include more rom-com candidates from the context (e.g., Catch and Release) rather than omitting it."
+A movie about friendship,"Toy Story, Stand by Me","Looking: The Movie, The Art of Getting By, Close, Among Friends, Mickey's Twice Upon a Christmas","### Best match: **Close** (Drama) — **Rating: 7.787**  
+- **Title:** *Close*  
+- **Genre:** Drama  
+- **Director:** Lukas Dhont  
+- **Rating:** 7.787  
+- **Why it matches (friendship):** The film centers on two thirteen-year-olds who are “incredibly close,” then drift apart after their relationship is questioned—exploring friendship, love, identity, and the emotional fallout and healing that follow.  
+
+### Also fits: **Looking: The Movie** (Drama/Romance) — **Rating: 7.113**  
+- **Title:** *Looking: The Movie*  
+- **Genre:** Drama, Romance, TV Movie  
+- **Director:** Andrew Haigh  
+- **Rating:** 7.113  
+- **Why it matches (friendship):** Patrick returns to San Francisco to celebrate with his old friends, confronting unresolved relationships and difficult choices—friendship is a key part of the story’s emotional core.  
+
+### Another friendship-leaning option: **Among Friends** (Comedy) — **Rating: 5.333**  
+- **Title:** *Among Friends*  
+- **Genre:** Comedy  
+- **Director:** Olivier Baroux  
+- **Rating:** 5.333  
+- **Why it matches (friendship):** Three longtime friends go on a boat trip, and jealousy/confessions test their friendships—more comedic and conflict-driven than the others.  
+
+*(Note: Some entries don’t list a release year in the database, but the requested details above are included.)*",5,4,4,"The answer recommends multiple movies that fit the theme of friendship, with explanations grounded in the provided overviews (especially for Close and Among Friends). Minor issues: it infers “friendship is a key part” for Looking: The Movie without explicitly stating friendship in the overview (though it does mention old friends). It also includes a note about missing release years, but still provides details that are not fully present in the context for some entries (e.g., Close and Among Friends lack release year in the database). Overall strong alignment and no major fabrication."
+A movie based on a true story,"The Pursuit of Happyness, Ford v Ferrari","Utøya: July 22, Dreamer: Inspired By a True Story, The Railway Man, Breathe, Down by Love","### Best match (based on a true story)
+
+**Breathe (2017-10-13)**  
+- **Genre:** Drama, Romance  
+- **Director:** Andy Serkis  
+- **Rating:** 7.476  
+- **Short explanation:** Based on the true story of **Robin**, whose life changes dramatically when polio leaves him paralyzed—making it a strong fit for your request for a true-story movie.  
+
+### Other true-story options from the list
+
+**Utøya: July 22 (2018-03-09)**  
+- **Genre:** History, Drama  
+- **Director:** Erik Poppe  
+- **Rating:** 7.207  
+- **Short explanation:** Tells the story of a girl who must hide and survive during the **right-wing terrorist attacks in Norway (Utøya, July 22)** while searching for her sister.
+
+**The Railway Man (2013-12-02)**  
+- **Genre:** Drama, History  
+- **Director:** Jonathan Teplitzky  
+- **Rating:** 6.86  
+- **Short explanation:** A true story about a World War II victim from the **“Death Railway”** who seeks out those responsible for his torture.
+
+**Dreamer: Inspired By a True Story (2005-09-10)**  
+- **Genre:** Drama, Family  
+- **Director:** John Gatins  
+- **Rating:** 6.987  
+- **Short explanation:** Inspired by a true story of Ben Crane and his daughter adopting and saving a racehorse from being sacrificed.",5,5,4,"The answer directly recommends movies explicitly described as based on true stories in the provided context (e.g., Breathe, The Railway Man, Dreamer, Utøya: July 22) and accurately reflects their overviews. Minor completeness gap: it doesn’t clearly distinguish that Utøya: July 22 is a true-story depiction of real events, though it is still consistent with the provided description."
+A psychological thriller,"Shutter Island, Gone Girl","The Last Client, The Experiment, Clinical, Spiderhead, A Tale of Two Sisters","## Best matches (psychological thrillers)
+
+### 1) **The Last Client** (2022)
+- **Genre:** Thriller, Crime  
+- **Director:** **Anders Rønnow Klarlund**  
+- **Rating:** **7.272**  
+- **Why it matches:** A renowned psychologist’s new client turns out to be a **wanted serial killer**, putting her directly into a **psychological nightmare** scenario—strong psychological-thriller tension.
+
+### 2) **The Experiment** (2010)
+- **Genre:** Thriller, Drama  
+- **Director:** **Paul T. Scheuring**  
+- **Rating:** **6.379**  
+- **Why it matches:** It’s explicitly a **psychological study** that spirals out of control, with participants placed into roles that drive escalating mental and behavioral breakdown—classic psychological thriller setup.
+
+### 3) **Clinical** *(release year not provided in the database)*
+- **Genre:** Thriller, Horror  
+- **Director:** **Alistair Legrand**  
+- **Rating:** **5.294**  
+- **Why it matches:** A psychiatrist tries to rebuild her life by working with a new patient who has a **terrifying history**, creating a psychologically driven, suspenseful (and horror-tinged) thriller dynamic.
+
+### 4) **A Tale of Two Sisters** (2003)
+- **Genre:** Drama, Horror, Mystery  
+- **Director:** **Kim Jee-woon**  
+- **Rating:** **7.105**  
+- **Why it matches:** Centers on a patient returning home and facing **disturbing events** tied to a **dark past** and haunting—psychological dread and mystery are central to the experience.
+
+### 5) **Spiderhead** (2022)
+- **Genre:** Science Fiction, Thriller  
+- **Director:** **Joseph Kosinski**  
+- **Rating:** **5.819**  
+- **Why it matches:** A prisoner tests **emotion-controlling drugs** and begins questioning the purpose—psychological thriller themes around mind control and identity.
+
+If you want, tell me whether you prefer **crime/serial-killer**, **mind-control/experiments**, or **haunting/mystery**, and I’ll narrow it to the top 1–2.",5,4,4,"The answer directly recommends psychological-thriller options from the provided context and gives appropriate brief justifications. Most claims (genres, plots, ratings, directors) are supported by the retrieved data; however, it labels Clinical as having a missing release year and adds some interpretive phrasing (e.g., 'mind control and identity') that is not explicitly stated in the context. It is largely complete by listing multiple strong matches, but it does not strictly limit to psychological thrillers only (e.g., includes horror/mystery-leaning titles) and provides no single best pick."
+A mystery movie with plot twists,"The Prestige, Knives Out","Get a Clue, Under Suspicion, A Wolf at the Door, Red Eye, Exam","### Best match: **A Wolf at the Door (2013)**
+- **Genre:** Drama, Thriller, Crime  
+- **Director:** Fernando Coimbra  
+- **Rating:** 7.394  
+- **Why it matches:** It’s a tense mystery/thriller centered on a **kidnapping**, with the story becoming increasingly sinister and featuring **plot twists** that keep you on edge.
+
+### Also fits (mystery + suspense/turns): **Red Eye (2005)**
+- **Genre:** Thriller, Mystery  
+- **Director:** Wes Craven  
+- **Rating:** 6.382  
+- **Why it matches:** A kidnapping on a flight escalates into a dangerous conspiracy, with escalating threats and **unexpected developments** as the plot unfolds.
+
+### Mystery with twists (more psychological/tense): **Exam**
+- **Genre:** Thriller, Mystery  
+- **Director:** Stuart Hazeldine  
+- **Rating:** 6.714  
+- **Why it matches:** The premise traps candidates in a confusing “exam,” and the tension unravels in a way that typically leads to **surprising turns** as the situation deteriorates.
+
+### If you want a lighter mystery: **Get a Clue (2002)**
+- **Genre:** Family, Comedy, Mystery, TV Movie  
+- **Director:** Maggie Greenwald  
+- **Rating:** 5.291  
+- **Why it matches:** A missing teacher case is solved by students working together—more **mystery-solving** than dark twists, but it does align with the “mystery” request.
+
+If you tell me whether you prefer **dark thrillers** or **lighter mystery**, I can narrow it to the top 1–2.",5,3,4,"The recommendations are strongly aligned with the request for a mystery with plot twists, and multiple suitable titles are suggested. However, some justifications use generic/interpretive language (e.g., 'unexpected developments', 'typically leads to surprising turns') that are not explicitly stated in the provided context for all films, so correctness is not fully supported. The answer is fairly complete with several options and brief reasons, though it could rely more strictly on the provided overviews."
+A crime drama,"The Godfather, Goodfellas","A Hard Day, Bent, 11:14, Bomb City, The Crime Is Mine","### Best match: **A Hard Day** (2014)  
+- **Genre:** Action, Crime, Thriller  
+- **Director:** **Kim Seong-hun**  
+- **Rating:** **7.112**  
+- **Why it matches (short):** A crime-focused thriller centered on a detective covering up a deadly incident, with stalking and escalating deceit—strong “crime drama” energy through its investigation and moral corruption themes.
+
+### Also fits: **Bomb City** (2017)  
+- **Genre:** Drama, Crime  
+- **Director:** **Jameson Brooks**  
+- **Rating:** **7.102**  
+- **Why it matches (short):** A crime drama about how a community conflict escalates into a controversial hate crime, questioning justice—very aligned with a serious, character-driven crime story.  
+
+### If you want a mystery-crime angle: **11:14**  
+- **Genre:** Crime, Drama, Thriller, Mystery  
+- **Director:** **Greg Marcks**  
+- **Rating:** **6.798**  
+- **Why it matches (short):** Multiple storylines converge around murder and deceit at **11:14pm**, making it a crime drama with a mystery structure.  
+
+*(Note: For “11:14” and “The Crime Is Mine,” the release year isn’t provided in the retrieved data.)*",5,4,4,"The answer recommends crime-drama/crime-focused titles from the provided context and matches the user’s vague request well. Claims about A Hard Day and Bomb City align with their overviews/genres. Minor issues: the “why it matches” phrasing for A Hard Day is slightly interpretive but still consistent with the overview; also, it notes missing release years for some films, which is correct. Completeness is slightly limited because it doesn’t explicitly confirm a single best pick beyond listing options, but it provides multiple relevant recommendations."
+A movie directed by Christopher Nolan,"Interstellar, Inception, The Prestige, The Dark Knight","Interstellar: Nolan's Odyssey, Following, Inception, Tenet, The Prestige","### Best match: **Inception** (2010-07-15)  
+- **Genre:** Action, Science Fiction, Adventure  
+- **Director:** Christopher Nolan  
+- **Rating:** 8.364  
+- **Short explanation:** A Christopher Nolan–directed mind-bending sci-fi about infiltrating the subconscious, featuring high-stakes espionage and complex, layered storytelling.
+
+### Also strong match: **Tenet** (2020-08-22)  
+- **Genre:** Action, Thriller, Science Fiction  
+- **Director:** Christopher Nolan  
+- **Rating:** 7.191  
+- **Short explanation:** Another Christopher Nolan film with international espionage and sci-fi time-bending stakes—built around a mission that unfolds in a “beyond real time” way.
+
+### Also matches (Nolan-directed): **Following** (1999-04-02)  
+- **Genre:** Drama, Thriller  
+- **Director:** Christopher Nolan  
+- **Rating:** 7.151  
+- **Short explanation:** A Christopher Nolan-directed thriller where a seemingly harmless act of following strangers escalates into danger, matching the suspense/drama side of his work.
+
+### Also matches (Nolan-directed): **The Prestige** (2006-10-19)  
+- **Genre:** Drama, Mystery, Science Fiction  
+- **Director:** Christopher Nolan  
+- **Rating:** 8.203  
+- **Short explanation:** A Christopher Nolan mystery/drama about rivalry and obsession between magicians, with a science-fiction edge and a tightly wound narrative.",5,4,4,"The question asks for a movie directed by Christopher Nolan; the answer correctly identifies multiple Nolan-directed films from the context (Inception, Tenet, Following, The Prestige). Minor issues: it includes an unsupported/extra narrative description (e.g., 'mind-bending' and 'time-bending') that is not explicitly stated in the provided context, though the general plot elements align. Completeness is slightly reduced because it does not clearly present a single direct answer (it lists several) and omits the retrieved 'Interstellar: Nolan's Odyssey' which is not confirmed as directed by Nolan in the context."
+A movie directed by Quentin Tarantino,"Pulp Fiction, Django Unchained","QT8: The First Eight, Grindhouse, Django Unchained, Reality, True Crime","### Best match: **Django Unchained** (2012)  
+- **Director:** Quentin Tarantino  
+- **Genre:** Drama, Western  
+- **Rating:** **8.171**  
+- **Short explanation:** Directed by Quentin Tarantino, it follows a freed slave who teams up with a German bounty hunter to rescue his wife from a brutal plantation owner—matching your request for a Tarantino-directed film.
+
+### Also matches (Tarantino-related): **Grindhouse** (2007)  
+- **Director:** Robert Rodriguez, Eli Roth, **Quentin Tarantino**, Edgar Wright, Rob Zombie  
+- **Genres:** Thriller, Action, Horror  
+- **Rating:** **6.981**  
+- **Short explanation:** While it’s an ensemble directorial project, **Quentin Tarantino is one of the directors**. It’s a double feature of horror films written by Tarantino and Robert Rodriguez, with fake trailers between the movies.",5,5,4,The answer directly identifies a Tarantino-directed film (Django Unchained) with correct director and supporting plot details from the context. It also correctly notes Tarantino’s role as one of multiple directors for Grindhouse. Minor completeness issue: it could have focused solely on the requested single movie rather than adding an extra option.
+A movie starring Leonardo DiCaprio,"Inception, The Revenant, Titanic","The Audition, Se son rose..., Finalmente la felicità, The Way He Looks, Spielberg","### Best match: **The Audition** (2015)
+- **Genre:** Comedy  
+- **Director:** Martin Scorsese  
+- **Rating:** 6.1  
+- **Why it matches:** It stars **Leonardo DiCaprio** (alongside Robert De Niro) and centers on a competitive, comedic situation—DiCaprio and De Niro must vie for the lead role in Scorsese’s next film.
+
+*(Other retrieved options with Leonardo DiCaprio are not available as feature films in the provided database—only the documentary **Spielberg** includes him in the cast.)*
+
+### Also fits (Leonardo DiCaprio appears): **Spielberg** (2017)
+- **Genre:** Documentary, TV Movie  
+- **Director:** Susan Lacy  
+- **Rating:** 7.567  
+- **Why it matches:** **Leonardo DiCaprio** is listed in the cast, and the film is about the life and career of director **Steven Spielberg**—so it’s a strong match if you’re open to a documentary rather than a narrative comedy/drama.",5,4,4,"The answer directly recommends movies from the provided context that include Leonardo DiCaprio, especially The Audition, which matches the query well. It correctly cites cast/genre/director/rating for both listed films. Minor issue: the claim that other retrieved options are 'not available as feature films' is not supported by the provided context (only Spielberg is shown with DiCaprio beyond The Audition). Completeness is slightly limited because it doesn’t explicitly mention that the other listed DiCaprio-related entry is only Spielberg and doesn’t provide a broader set beyond the two options shown."
+A movie starring Tom Hanks,"Forrest Gump, Cast Away","Greyhound, Larry Crowne, The Post, A Man Called Otto, Cast Away","### Best match (starring Tom Hanks)
+
+**Cast Away (2000)**  
+- **Genre:** Adventure, Drama  
+- **Director:** Robert Zemeckis  
+- **Rating:** 7.662  
+- **Short explanation:** Tom Hanks stars as Chuck Nolan, who survives a plane crash and must endure isolation and survival on a desolate island—an intense, character-driven story centered on resilience and hardship.
+
+### Other strong Tom Hanks options from the list
+
+**A Man Called Otto (2022)**  
+- **Genre:** Comedy, Drama  
+- **Director:** Marc Forster  
+- **Rating:** 7.814  
+- **Short explanation:** Tom Hanks plays a grumpy widower whose life changes after a lively young family moves next door, leading to an unlikely friendship and emotional character growth.
+
+**Greyhound (2020)**  
+- **Genre:** War, Action, Drama  
+- **Director:** Aaron Schneider  
+- **Rating:** 7.419  
+- **Short explanation:** Tom Hanks leads a WWII convoy across dangerous waters, battling Nazi U-boats—high-stakes war drama with action and leadership under pressure.
+
+**The Post (2017)**  
+- **Genre:** Drama, History  
+- **Director:** Steven Spielberg  
+- **Rating:** 6.997  
+- **Short explanation:** Tom Hanks appears in a true-events inspired political drama about a major newspaper cover-up and a fight between journalists and government.
+
+**Larry Crowne (2011)**  
+- **Genre:** Comedy, Romance, Drama  
+- **Director:** Tom Hanks  
+- **Rating:** 5.951  
+- **Short explanation:** Tom Hanks stars (and directed) as a man restarting his life by enrolling in college, blending humor, romance, and personal reinvention.",5,5,4,"The answer directly recommends movies from the provided context that star Tom Hanks, with accurate details (cast, genres, directors, ratings, and plot summaries) supported by the retrieved data. It is slightly less complete because it provides multiple options rather than a single best match, though this still satisfies the question."
+A movie starring Morgan Freeman,"The Shawshank Redemption, Se7en","The Contract, 10 Items or Less, The Lego Movie, The Magic of Belle Isle, Under Suspicion","### Best match: **The Contract** (2006)
+- **Genre:** Drama, Action, Thriller, Crime  
+- **Director:** Bruce Beresford  
+- **Rating:** 5.7  
+- **Short explanation:** Stars **Morgan Freeman** and delivers a tense, crime-focused thriller where an ex-lawman and his son stumble into a dangerous contract killer—matching the kind of suspenseful, Freeman-led drama you’d likely want.
+
+### Also strong option: **Under Suspicion** (2000)
+- **Genre:** Thriller, Crime, Drama  
+- **Director:** Stephen Hopkins  
+- **Rating:** 6.091  
+- **Short explanation:** Features **Morgan Freeman** in a suspenseful crime drama about a lawyer being pulled deeper into a murder investigation, with the “ten minutes” situation escalating into something much bigger.
+
+### Lighter option (still Freeman): **The Magic of Belle Isle** (2012)
+- **Genre:** Drama, Comedy  
+- **Director:** Rob Reiner  
+- **Rating:** 6.967  
+- **Short explanation:** Stars **Morgan Freeman** as a wheelchair-bound author who reconnects with his creativity, with a warm, character-driven story and comedic elements.
+
+If you tell me whether you want **thriller/crime** or **drama/comedy**, I can narrow it to the single best pick from these.",5,4,4,"The answer directly recommends movies from the retrieved context that star Morgan Freeman, including The Contract as the best match. Claims about genres, directors, ratings, and Freeman starring are supported by the context. Minor issues: the phrasing about “matching the kind of suspenseful, Freeman-led drama you’d likely want” is subjective, and the “ten minutes” escalation is only indirectly supported by the overview wording. It provides multiple options and brief explanations, but does not strictly limit to a single best match."
+A movie about World War II,"Saving Private Ryan, Dunkirk","Blood & Gold, Little Boy, Their Finest, U-571, The Painted Bird","### Best matches (World War II)
+
+1) **Little Boy** (2015)  
+- **Genre:** Comedy, Drama, War  
+- **Director:** Alejandro Monteverde  
+- **Rating:** 7.186  
+- **Why it matches:** Set during **World War II**, it follows an **eight-year-old boy** trying to end the war and bring his father home—strong emotional, war-focused storytelling.
+
+2) **The Painted Bird** (2019)  
+- **Genre:** War, Drama, Thriller  
+- **Director:** Václav Marhoul  
+- **Rating:** 7.2  
+- **Why it matches:** A **World War II** story about a young boy wandering Eastern Europe, with a grim, survival-driven tone typical of WWII-era dramas.
+
+3) **U-571** (2000)  
+- **Genre:** War, Drama, Action, Thriller  
+- **Director:** Jonathan Mostow  
+- **Rating:** 6.5  
+- **Why it matches:** Directly centered on **World War II** submarine warfare and the Allies’ attempt to seize a key Nazi **Enigma coding machine**.
+
+4) **Blood & Gold** (2023)  
+- **Genre:** Action, Drama, War  
+- **Director:** Peter Thorwarth  
+- **Rating:** 6.688  
+- **Why it matches:** Takes place at the **end of World War II**, mixing a soldier’s search for his daughter with an SS troop hunting for a Jewish treasure.
+
+5) **Their Finest** (2017)  
+- **Genre:** Romance, War, Drama  
+- **Director:** Lone Scherfig  
+- **Rating:** 6.702  
+- **Why it matches:** Set during the **Blitz in World War II**, focusing on a female screenwriter working on a film meant to boost morale—more character-driven than battlefield-focused.
+
+If you tell me whether you want **battle/action**, **emotional human stories**, or **darker survival**, I can narrow it to the top 1–2.",5,4,4,"The answer directly recommends multiple World War II movies from the provided context and explains why each matches. All listed movies are indeed WWII-related per the overviews. Minor issues: some phrasing like “grim, survival-driven tone typical of WWII-era dramas” is interpretive and not explicitly stated in the context, and the user asked for “a movie” but the system provided a ranked list. Overall, it is well-aligned and largely supported by the retrieved data."
+A movie about revenge,"John Wick, Kill Bill: Vol. 1","The Dirties, Dead Man's Shoes, Violation, Xtreme, Bent","### Best match: **Dead Man's Shoes** (2004)  
+- **Genre:** Drama, Thriller, Crime  
+- **Director:** Shane Meadows  
+- **Rating:** **7.1**  
+- **Short explanation:** A soldier returns home and **exacts deadly revenge** on the thugs who harmed his brother—directly matching your request for a revenge-focused movie.
+
+### Also fits (revenge theme): **Xtreme** (2021)  
+- **Genre:** Action, Adventure, Crime  
+- **Director:** Daniel Benmayor  
+- **Rating:** **6.432**  
+- **Short explanation:** A retired hitman builds a **carefully planned revenge plot** after the murder of his son and father, targeting the killer (including a personal twist involving his brother).
+
+### Also fits (revenge crusade): **Violation** (2020)  
+- **Genre:** Horror, Thriller, Drama  
+- **Director:** Dusty Mancinelli, Madeleine Sims-Fewer  
+- **Rating:** **5.519**  
+- **Short explanation:** After betrayal by her sister and brother-in-law, the protagonist launches a **vicious revenge crusade**, aligning with the revenge premise.
+
+If you want, tell me whether you prefer **dark/serious revenge** (e.g., *Dead Man's Shoes*) or **more action-driven revenge** (e.g., *Xtreme*).",5,5,4,"The answer directly recommends revenge-themed movies from the provided context (Dead Man's Shoes, Xtreme, Violation) with accurate genre/director/rating details and explanations that match the overviews. Minor completeness gap: it doesn’t include The Dirties (also about revenge) even though it is in the retrieved context."
+A movie about prison escape,"The Shawshank Redemption, Escape Plan","Escape Plan, The Escapist, Get the Gringo, Prison Break: The Final Break, Escape Plan: The Extractors","### Best match: **Prison Break: The Final Break** (2009)  
+- **Genre:** Action, Drama, Thriller  
+- **Director:** Kevin Hooks, Brad Turner  
+- **Rating:** 7.481  
+- **Short explanation:** It directly centers on **incarceration and escape planning**, including **Michael’s final escape plan** and the events leading to the finale of *Prison Break*.
+
+### Also strong match: **Escape Plan** (2013)  
+- **Genre:** Action, Thriller  
+- **Director:** Mikael Håfström  
+- **Rating:** 6.722  
+- **Short explanation:** A security expert is **framed and locked in a prison he designed**, then must **escape**—a very straightforward prison-escape premise.
+
+### Another good option: **The Escapist** (2008)  
+- **Genre:** Action, Thriller  
+- **Director:** Rupert Wyatt  
+- **Rating:** 6.162  
+- **Short explanation:** Focuses on a long-term convict who creates an **ingenious escape plan** and recruits other prisoners to break out.
+
+### If you want a prison survival/escape angle: **Get the Gringo** (2012)  
+- **Genre:** Action, Thriller, Crime, Drama  
+- **Director:** Adrian Grunberg  
+- **Rating:** 6.533  
+- **Short explanation:** While it’s more prison survival than a pure escape thriller, it’s set in a **tough prison** and involves learning to **survive** with help from a child.
+
+*(All recommendations are based only on the retrieved movies.)*",5,5,4,"The answer directly recommends multiple prison-escape related movies from the provided context and accurately summarizes each plot premise (escape plan/incarceration/escape). Minor completeness gap: it doesn’t explicitly pick a single best option as the sole recommendation, though it does provide a clear best match."
+A movie about detectives solving crimes,"Se7en, Zodiac","Blind Detective, Evidence, Felony, Counter Investigation, Scooby-Doo! and the Curse of the 13th Ghost","### Best match: **Blind Detective** (2013)  
+- **Genre:** Crime, Comedy, Drama, Action  
+- **Director:** **Johnnie To**  
+- **Rating:** **6.1**  
+- **Why it matches:** It’s explicitly about a **detective solving cases**—a brilliant detective, forced into retirement after losing his eyesight, takes on **cold cases** and teams up with a **rookie inspector** to solve a case tied to her past.
+
+### Also fits detective/crime solving: **Counter Investigation**  
+- **Genre:** Thriller  
+- **Director:** **Franck Mancuso**  
+- **Rating:** **6.879**  
+- **Why it matches:** A **cop investigates** whether a convicted man is truly guilty—centered on **detective-style investigation and uncovering the truth**.
+
+### If you want a more mystery/thriller detective angle: **Evidence**  
+- **Genre:** Horror, Thriller, Mystery  
+- **Director:** **Olatunde Osunsanmi**  
+- **Rating:** **5.62**  
+- **Why it matches:** Detectives piece together events using **clues from recording devices** to understand a massacre—very much a **crime investigation** setup.
+
+### Another crime-investigation option: **Felony**  
+- **Genre:** Mystery, Thriller, Crime  
+- **Director:** **Matthew Saville**  
+- **Rating:** **5.693**  
+- **Why it matches:** Features **three detectives** entangled in a tense struggle over a tragic accident and the truth behind it—investigation-driven crime drama.
+
+*(Note: I’m only using the movies provided in the retrieved list.)*",5,4,4,"The answer directly recommends detective/crime-solving movies from the provided context (especially Blind Detective) and gives relevant supporting details. Minor correctness issues: some phrasing like “detective-style investigation” for Counter Investigation and “very much a crime investigation setup” for Evidence is interpretive rather than explicitly stated, though it aligns with the overviews. Completeness is strong but could be tighter by focusing only on the most directly detective-solving premise (Blind Detective) without extra speculative framing."
+A movie about aliens,"Arrival, Alien","Aliens in the Attic, AVP: Alien vs. Predator, Meet Dave, Alien Abduction: Incident in Lake County, Almost Home","### Best match: **Alien Abduction: Incident in Lake County** (1998)  
+- **Genre:** Horror, Science Fiction, TV Movie  
+- **Director:** Dean Alioto  
+- **Rating:** 7.3  
+- **Why it matches:** It’s directly about **aliens**—after a blackout, a son investigates and captures footage of real aliens, which then leads to escalating chaos when the aliens follow him home.
+
+---
+
+### Also strong match: **AVP: Alien vs. Predator** (2004)  
+- **Genre:** Adventure, Science Fiction, Action, Horror  
+- **Director:** Paul W.S. Anderson  
+- **Rating:** 5.9  
+- **Why it matches:** Features **aliens prominently**, with a research team discovering a buried structure and entering a hunting ground where aliens are grown for the Predator race.
+
+---
+
+### Lighter, family-friendly alien movie: **Aliens in the Attic** (2009)  
+- **Genre:** Adventure, Comedy, Family, Fantasy, Science Fiction  
+- **Director:** John Schultz  
+- **Rating:** 5.674  
+- **Why it matches:** A kid-focused story where a group of children must protect their vacation home from **invading aliens**.
+
+---
+
+### Comedy sci-fi aliens: **Meet Dave** (2008)  
+- **Genre:** Comedy, Science Fiction, Adventure, Family  
+- **Director:** Brian Robbins  
+- **Rating:** 5.274  
+- **Why it matches:** Involves **miniature aliens** operating a spaceship in human form, with the plot centered on their mission and interactions on Earth.
+
+---
+
+### Animated alien short: **Almost Home** (2014)  
+- **Genre:** Adventure, Animation, Science Fiction  
+- **Director:** Todd Wilderman  
+- **Rating:** 6.248  
+- **Why it matches:** About **aliens searching for a new planet** to make home (it’s a promotional short, not a full feature).",5,4,4,"The answer is highly relevant, recommending multiple alien-related movies from the provided context. Most claims (genres, directors, ratings, and overviews) match the retrieved data. Minor issues: it labels 'Almost Home' as a promotional short (not stated in the provided context, though the context implies it), and 'Meet Dave' is described as 'miniature aliens' (not explicitly stated in the provided overview). Completeness is strong but could be tighter by focusing only on the context without extra qualifiers."
+A movie about virtual reality,"The Matrix, Ready Player One","eXistenZ, Sleep Dealer, S1m0ne, World of Tomorrow, Ready Player One","### Best match: **eXistenZ (1999)**
+- **Genre:** Action, Thriller, Science Fiction  
+- **Director:** David Cronenberg  
+- **Rating:** 6.813  
+- **Why it matches:** It’s directly about **virtual reality**—a game designer must play her latest VR creation to see if it’s been damaged, while being hunted by assassins.
+
+### Also fits: **Ready Player One (2018)**
+- **Genre:** Adventure, Action, Science Fiction  
+- **Director:** Steven Spielberg  
+- **Rating:** 7.6  
+- **Why it matches:** It centers on a **virtual reality world** where people compete in a game-like contest tied to a popular video game system.
+
+### Also relevant (VR-adjacent tech): **Sleep Dealer (2008)**
+- **Genre:** Drama, Science Fiction, Thriller  
+- **Director:** Alex Rivera  
+- **Rating:** 5.8  
+- **Why it matches:** Set in a near-future digital world where technology connects minds/experiences—more about **networked tech and virtual connection** than a VR game, but still strongly in the “virtual tech” lane.
+
+*Note: Based on the retrieved list, these are the closest matches to “a movie about virtual reality.”*",5,4,4,"The answer correctly identifies eXistenZ as the closest direct match to a virtual reality movie, and Ready Player One as a strong VR-related option based on the provided overviews. Sleep Dealer is VR-adjacent and reasonably framed as networked virtual connection rather than explicit VR. Minor correctness issues: the claim that Ready Player One is centered on a 'virtual reality world' is not explicitly stated in the retrieved context (only a virtual contest/game system is described). Overall, it provides multiple relevant recommendations with supporting details from the context."
+A movie with space battles,"Star Wars, Guardians of the Galaxy","Armageddon, Soldier, Iron Sky, Battlestar Galactica: Blood & Chrome, Space Sweepers","### Best match: **Space Sweepers** (2021)
+- **Genre:** Drama, Fantasy, Science Fiction  
+- **Director:** Jo Sung-hee  
+- **Rating:** 7.109  
+- **Why it matches:** It’s set in space and follows a crew operating a space junk collector ship, getting pulled into dangerous, high-stakes conflicts involving a powerful humanoid robot—leading to action and space-based peril.
+
+### Other strong option: **Battlestar Galactica: Blood & Chrome** (2012)
+- **Genre:** Science Fiction, TV Movie, Action  
+- **Director:** Jonas Pate  
+- **Rating:** 6.709  
+- **Why it matches:** This is explicitly war/fleet-focused sci-fi, centered on the **first Cylon war** and involving military action in space, which fits “space battles” well.
+
+*(Note: I only used the movies provided in the database. If you want, tell me whether you prefer “space battles” to be more like military combat or more like action/adventure in space, and I’ll narrow it further using only these titles.)*",4,4,3,"The answer is largely relevant because it recommends space/sci-fi titles and includes a war/fleet-focused option (Battlestar Galactica: Blood & Chrome) that better fits “space battles.” However, the “space battles” aspect is not explicitly stated in the provided context for Space Sweepers, and the answer doesn’t consider other potentially relevant space-action options from the database (e.g., Iron Sky or Armageddon). Claims are mostly supported by the context, but some justification is somewhat speculative."
+A movie with dragons,"How to Train Your Dragon, The Hobbit: The Desolation of Smaug","Dragons: Dawn of the Dragon Racers, Book of Dragons, Dragon Rider, Dragons: Gift of the Night Fury, How to Train Your Dragon: Homecoming","### Best Match: **How to Train Your Dragon: Homecoming** (2019)
+- **Genre:** Animation, Fantasy, Adventure, Action, Family  
+- **Director:** Tim Johnson  
+- **Rating:** **8.1**  
+- **Why it matches:** It’s directly centered on **dragons** and continues the story with Hiccup and friends, focusing on their bond with dragons and how dragons are remembered by the Vikings.  
+
+---
+
+### Also Great Matches (more dragon adventures)
+#### **Dragons: Dawn of the Dragon Racers** (2014)
+- **Genre:** Animation, Family, Adventure, Comedy, Fantasy  
+- **Director:** Elaine Bogan, John Sanford  
+- **Rating:** **7.194**  
+- **Why it matches:** Features **dragons** prominently, with a plot about a competition to become the first **Dragon Racing champion of Berk**—very dragon-focused and adventurous.
+
+#### **Dragon Rider** (2020)
+- **Genre:** Animation, Family, Adventure, Fantasy  
+- **Director:** Tomer Eshed  
+- **Rating:** **7.168**  
+- **Why it matches:** An epic quest involving a **dragon** as part of an unlikely trio, centered on finding a mythological safe haven for dragons.
+
+#### **Dragons: Gift of the Night Fury** (2011)
+- **Genre:** Animation, Comedy, Adventure, Family  
+- **Director:** Tom Owens  
+- **Rating:** **7.06**  
+- **Why it matches:** Hiccup and Toothless go on an adventure that leads to an **island of new dragons**, making it a strong “dragons movie” pick.  
+
+#### **Book of Dragons** (2011)
+- **Genre:** Fantasy, Animation, Action, Comedy, Family  
+- **Director:** Steve Hickner  
+- **Rating:** **6.613**  
+- **Why it matches:** Dragon training and lore—Hiccup and friends share the legend behind the **Book of Dragons** and introduce training secrets about new dragons.",5,4,4,"The answer is highly relevant to a movie with dragons and recommends multiple dragon-focused titles from the provided context. Most claims (genres, directors, ratings, and dragon-centered plot points) are supported by the retrieved data. Minor correctness issues include slightly interpretive phrasing (e.g., “directly centered on dragons” and “continues the story”) that is not explicitly stated in the context. It is fairly complete by listing several options, but it does not strictly limit to the single best match or provide any additional filtering beyond the provided summaries."
+A highly rated animated movie,"Spirited Away, Toy Story","Life, Animated, Turtles Forever, Next Gen, Hotel Gagarin, Raining Cats and Frogs","### Best match (highly rated animated)
+
+**1) Turtles Forever (2009)**  
+- **Genre:** Animation, Science Fiction, Adventure  
+- **Director:** Roy Burdine, Lloyd Goldfine  
+- **Rating:** 7.299  
+- **Why it matches:** It’s an animated, adventure-focused movie with a fun, crossover premise—multiple incarnations of the Teenage Mutant Ninja Turtles team up across universes, making it a strong pick if you want a well-regarded animated title.
+
+### Also a strong pick (high rating, but not animation)
+
+**2) Life, Animated (2016)**  
+- **Genre:** Documentary  
+- **Director:** Roger Ross Williams  
+- **Rating:** 7.5  
+- **Why it matches:** It’s highly rated and centers on how Disney animation helps a boy communicate and connect with the world—though the film itself is **documentary**, not an animated feature.
+
+If you want, tell me whether you specifically mean **animated (animated feature)** or you’re okay with **documentaries about animation**, and I’ll narrow it further using only these titles.",4,4,3,"The answer identifies highly rated titles from the context and includes an animated option (Turtles Forever) plus another highly rated film (Life, Animated). However, it does not clearly satisfy the user's request for a 'highly rated animated movie' because the top pick is only one of the two and the second option is explicitly a documentary (not animated). Claims about the crossover premise are supported by the context, and ratings/genres match, but the response could better focus on animated films only and provide a clearer single best match."

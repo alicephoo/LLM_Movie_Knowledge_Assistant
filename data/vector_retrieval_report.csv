@@ -1,0 +1,31 @@
+question,expected,retrieved,hit,reciprocal_rank
+A science fiction movie about space exploration,"Interstellar, The Martian","Red Planet, 3022, Prometheus, Sphere, Life",0,0.0
+A mind-bending science fiction movie,"Inception, Tenet","Transcendence, Bliss, More, Multiverse, Parallel",0,0.0
+A movie about time travel,"Back to the Future, Looper","Time Lapse, Timecrimes, Frequently Asked Questions About Time Travel, About Time, Synchronicity",0,0.0
+A superhero movie with Marvel characters,"Avengers: Endgame, Iron Man","Marvel Studios: Assembling a Universe, Guardians, The Little Guy, Magnum Opus, Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",0,0.0
+A superhero movie from DC,"The Dark Knight, Man of Steel","DC Showcase: Death, Justice League: Gods and Monsters, Justice League: War, Superhero Movie, Lego Batman: The Movie - DC Super Heroes Unite",0,0.0
+A fantasy movie with magic,"Harry Potter and the Sorcerer's Stone, Fantastic Beasts and Where to Find Them","Magic Magic, Strange Magic, Bright, Magic in the Moonlight, The Secret of the Magic Gourd",0,0.0
+A movie about dinosaurs,"Jurassic Park, Jurassic World","Dinosaur, The Good Dinosaur, The Dinosaur Project, Return to Jurassic Park, Walking with Dinosaurs",0,0.0
+A movie about robots and artificial intelligence,"Ex Machina, I, Robot","Automata, I, Robot, A.I. Artificial Intelligence, The Machine, Morgan",1,0.5
+A movie about survival in space,"Gravity, The Martian","3022, Life, Lost in Space, Attraction, Love",0,0.0
+A movie about dreams,Inception,"The Science of Sleep, The Dreamers, On Body and Soul, In Dreams, The Butterfly's Dream",0,0.0
+A romantic comedy,"Crazy Rich Asians, Notting Hill","Someone Marry Barry, 6 Years, Something New, Playing It Cool, Another Year",0,0.0
+A movie about friendship,"Toy Story, Stand by Me","Close, Among Friends, Emergency, (Girl)Friend, Friendship!",0,0.0
+A movie based on a true story,"The Pursuit of Happyness, Ford v Ferrari","True Story, Argentina, 1985, Dreamer: Inspired By a True Story, The Straight Story, The 33",0,0.0
+A psychological thriller,"Shutter Island, Gone Girl","Clinical, The Last Client, The Diabolical, A Second Chance, The Cell",0,0.0
+A mystery movie with plot twists,"The Prestige, Knives Out","Under Suspicion, Get a Clue, Exam, Counter Investigation, 11:14",0,0.0
+A crime drama,"The Godfather, Goodfellas","11:14, The Crime Is Mine, Ordinary Decent Criminal, A Second Chance, Under Suspicion",0,0.0
+A movie directed by Christopher Nolan,"Interstellar, Inception, The Prestige, The Dark Knight","Interstellar: Nolan's Odyssey, Following, Dunkirk, The Zero Theorem, Interstellar",1,0.2
+A movie directed by Quentin Tarantino,"Pulp Fiction, Django Unchained","QT8: The First Eight, Grindhouse, Reality, Spiderhead, Django Unchained",1,0.2
+A movie starring Leonardo DiCaprio,"Inception, The Revenant, Titanic","The Audition, Se son rose..., Youth, The Way He Looks, For Your Consideration",0,0.0
+A movie starring Tom Hanks,"Forrest Gump, Cast Away","I Saw the Light, Swiss Army Man, Greyhound, Larry Crowne, Looking for Teddy",0,0.0
+A movie starring Morgan Freeman,"The Shawshank Redemption, Se7en","Morgan, Yes Man, The Contract, God's Pocket, About a Boy",0,0.0
+A movie about World War II,"Saving Private Ryan, Dunkirk","Little Boy, Allied, Darkest Hour, U-571, Cold War",0,0.0
+A movie about revenge,"John Wick, Kill Bill: Vol. 1","Bent, Your Son, Vengeance, Do Revenge, Badlapur",0,0.0
+A movie about prison escape,"The Shawshank Redemption, Escape Plan","Escape Plan, The Escapist, The Inner Cage, Caged, 7 Prisoners",1,1.0
+A movie about detectives solving crimes,"Se7en, Zodiac","Counter Investigation, Under Suspicion, Keep an Eye Out, 11:14, Surveillance",0,0.0
+A movie about aliens,"Arrival, Alien","Encounter, Extinction, Alien Hunter, Lifted, Arrival",1,0.2
+A movie about virtual reality,"The Matrix, Ready Player One","The Zero Theorem, Sleep Dealer, eXistenZ, S1m0ne, The Call Up",0,0.0
+A movie with space battles,"Star Wars, Guardians of the Galaxy","Soldier, Battle for Terra, 3022, Lost in Space, Armageddon",0,0.0
+A movie with dragons,"How to Train Your Dragon, The Hobbit: The Desolation of Smaug","Sintel, Dragon, Dragons: Dawn of the Dragon Racers, Dragons: Gift of the Night Fury, Dragonheart: Vengeance",0,0.0
+A highly rated animated movie,"Spirited Away, Toy Story","Life, Animated, Next Gen, Raining Cats and Frogs, Pinocchio, Sing",0,0.0

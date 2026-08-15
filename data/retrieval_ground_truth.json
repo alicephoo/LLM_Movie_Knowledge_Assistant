@@ -1,0 +1,214 @@
+[
+    {
+        "question": "A science fiction movie about space exploration",
+        "relevant_movies": [
+            "Interstellar",
+            "The Martian"
+        ]
+    },
+    {
+        "question": "A mind-bending science fiction movie",
+        "relevant_movies": [
+            "Inception",
+            "Tenet"
+        ]
+    },
+    {
+        "question": "A movie about time travel",
+        "relevant_movies": [
+            "Back to the Future",
+            "Looper"
+        ]
+    },
+    {
+        "question": "A superhero movie with Marvel characters",
+        "relevant_movies": [
+            "Avengers: Endgame",
+            "Iron Man"
+        ]
+    },
+    {
+        "question": "A superhero movie from DC",
+        "relevant_movies": [
+            "The Dark Knight",
+            "Man of Steel"
+        ]
+    },
+    {
+        "question": "A fantasy movie with magic",
+        "relevant_movies": [
+            "Harry Potter and the Sorcerer's Stone",
+            "Fantastic Beasts and Where to Find Them"
+        ]
+    },
+    {
+        "question": "A movie about dinosaurs",
+        "relevant_movies": [
+            "Jurassic Park",
+            "Jurassic World"
+        ]
+    },
+    {
+        "question": "A movie about robots and artificial intelligence",
+        "relevant_movies": [
+            "Ex Machina",
+            "I, Robot"
+        ]
+    },
+    {
+        "question": "A movie about survival in space",
+        "relevant_movies": [
+            "Gravity",
+            "The Martian"
+        ]
+    },
+    {
+        "question": "A movie about dreams",
+        "relevant_movies": [
+            "Inception"
+        ]
+    },
+    {
+        "question": "A romantic comedy",
+        "relevant_movies": [
+            "Crazy Rich Asians",
+            "Notting Hill"
+        ]
+    },
+    {
+        "question": "A movie about friendship",
+        "relevant_movies": [
+            "Toy Story",
+            "Stand by Me"
+        ]
+    },
+    {
+        "question": "A movie based on a true story",
+        "relevant_movies": [
+            "The Pursuit of Happyness",
+            "Ford v Ferrari"
+        ]
+    },
+    {
+        "question": "A psychological thriller",
+        "relevant_movies": [
+            "Shutter Island",
+            "Gone Girl"
+        ]
+    },
+    {
+        "question": "A mystery movie with plot twists",
+        "relevant_movies": [
+            "The Prestige",
+            "Knives Out"
+        ]
+    },
+    {
+        "question": "A crime drama",
+        "relevant_movies": [
+            "The Godfather",
+            "Goodfellas"
+        ]
+    },
+    {
+        "question": "A movie directed by Christopher Nolan",
+        "relevant_movies": [
+            "Interstellar",
+            "Inception",
+            "The Prestige",
+            "The Dark Knight"
+        ]
+    },
+    {
+        "question": "A movie directed by Quentin Tarantino",
+        "relevant_movies": [
+            "Pulp Fiction",
+            "Django Unchained"
+        ]
+    },
+    {
+        "question": "A movie starring Leonardo DiCaprio",
+        "relevant_movies": [
+            "Inception",
+            "The Revenant",
+            "Titanic"
+        ]
+    },
+    {
+        "question": "A movie starring Tom Hanks",
+        "relevant_movies": [
+            "Forrest Gump",
+            "Cast Away"
+        ]
+    },
+    {
+        "question": "A movie starring Morgan Freeman",
+        "relevant_movies": [
+            "The Shawshank Redemption",
+            "Se7en"
+        ]
+    },
+    {
+        "question": "A movie about World War II",
+        "relevant_movies": [
+            "Saving Private Ryan",
+            "Dunkirk"
+        ]
+    },
+    {
+        "question": "A movie about revenge",
+        "relevant_movies": [
+            "John Wick",
+            "Kill Bill: Vol. 1"
+        ]
+    },
+    {
+        "question": "A movie about prison escape",
+        "relevant_movies": [
+            "The Shawshank Redemption",
+            "Escape Plan"
+        ]
+    },
+    {
+        "question": "A movie about detectives solving crimes",
+        "relevant_movies": [
+            "Se7en",
+            "Zodiac"
+        ]
+    },
+    {
+        "question": "A movie about aliens",
+        "relevant_movies": [
+            "Arrival",
+            "Alien"
+        ]
+    },
+    {
+        "question": "A movie about virtual reality",
+        "relevant_movies": [
+            "The Matrix",
+            "Ready Player One"
+        ]
+    },
+    {
+        "question": "A movie with space battles",
+        "relevant_movies": [
+            "Star Wars",
+            "Guardians of the Galaxy"
+        ]
+    },
+    {
+        "question": "A movie with dragons",
+        "relevant_movies": [
+            "How to Train Your Dragon",
+            "The Hobbit: The Desolation of Smaug"
+        ]
+    },
+    {
+        "question": "A highly rated animated movie",
+        "relevant_movies": [
+            "Spirited Away",
+            "Toy Story"
+        ]
+    }
+]

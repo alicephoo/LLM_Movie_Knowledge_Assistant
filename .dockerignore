@@ -1,0 +1,30 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+.ipynb_checkpoints
+
+# Local Python environment
+movie-rag
+movie-rag-new
+
+# Data that does not need to be copied into the Docker image
+data/*.parquet
+data/*.npy
+
+# Local Qdrant database
+qdrant_db
+
+# Not needed in the container
+notebook
+*.ipynb
+
+# OS/editor files
+.DS_Store
+.vscode
+.idea
+
+# Docker files
+docker-compose.override.yml

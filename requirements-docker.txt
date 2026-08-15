@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+qdrant-client
+sentence-transformers
+rank-bm25
+numpy
+pandas
+pyarrow
+psycopg2-binary
+tqdm

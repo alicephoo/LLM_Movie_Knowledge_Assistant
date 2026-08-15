@@ -1,0 +1,31 @@
+query,hybrid_hit_rate_at_5,hybrid_mrr_at_5,reranked_hit_rate_at_5,reranked_mrr_at_5,hit_rate_improved,mrr_improved
+A science fiction movie about space exploration,0,0.0,1,0.5,True,True
+A mind-bending science fiction movie,0,0.0,0,0.0,False,False
+A movie about time travel,0,0.0,0,0.0,False,False
+A superhero movie with Marvel characters,0,0.0,0,0.0,False,False
+A superhero movie from DC,0,0.0,0,0.0,False,False
+A fantasy movie with magic,0,0.0,0,0.0,False,False
+A movie about dinosaurs,0,0.0,0,0.0,False,False
+A movie about robots and artificial intelligence,1,1.0,1,0.3333333333333333,False,False
+A movie about survival in space,0,0.0,0,0.0,False,False
+A movie about dreams,0,0.0,0,0.0,False,False
+A romantic comedy,0,0.0,0,0.0,False,False
+A movie about friendship,0,0.0,0,0.0,False,False
+A movie based on a true story,0,0.0,0,0.0,False,False
+A psychological thriller,0,0.0,0,0.0,False,False
+A mystery movie with plot twists,0,0.0,0,0.0,False,False
+A crime drama,0,0.0,0,0.0,False,False
+A movie directed by Christopher Nolan,1,0.3333333333333333,1,0.2,False,False
+A movie directed by Quentin Tarantino,1,0.3333333333333333,1,0.25,False,False
+A movie starring Leonardo DiCaprio,0,0.0,0,0.0,False,False
+A movie starring Tom Hanks,1,0.2,0,0.0,False,False
+A movie starring Morgan Freeman,0,0.0,0,0.0,False,False
+A movie about World War II,0,0.0,0,0.0,False,False
+A movie about revenge,0,0.0,0,0.0,False,False
+A movie about prison escape,1,1.0,1,0.5,False,False
+A movie about detectives solving crimes,0,0.0,0,0.0,False,False
+A movie about aliens,0,0.0,0,0.0,False,False
+A movie about virtual reality,1,0.2,0,0.0,False,False
+A movie with space battles,0,0.0,0,0.0,False,False
+A movie with dragons,0,0.0,0,0.0,False,False
+A highly rated animated movie,0,0.0,0,0.0,False,False

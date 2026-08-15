@@ -1,0 +1,31 @@
+question,expected,retrieved,hit,reciprocal_rank
+A science fiction movie about space exploration,"Interstellar, The Martian","Red Planet, Space Sweepers, 3022, Deep Impact, Prometheus",0,0.0
+A mind-bending science fiction movie,"Inception, Tenet","Transcendence, World of Tomorrow, Bliss, Black Mirror: Bandersnatch, More",0,0.0
+A movie about time travel,"Back to the Future, Looper","Time Lapse, Frequently Asked Questions About Time Travel, Timecrimes, Rugrats in Paris: The Movie, Frequently Asked Questions About Time Travel",0,0.0
+A superhero movie with Marvel characters,"Avengers: Endgame, Iron Man","Marvel Studios: Assembling a Universe, Marvel Studios: Assembling a Universe, Guardians, Death of a Superhero, The Little Guy",0,0.0
+A superhero movie from DC,"The Dark Knight, Man of Steel","DC Showcase: Death, Teen Titans: The Judas Contract, Justice League: Gods and Monsters, Justice League: The Flashpoint Paradox, Justice League: War",0,0.0
+A fantasy movie with magic,"Harry Potter and the Sorcerer's Stone, Fantastic Beasts and Where to Find Them","Magic Magic, Onward, Strange Magic, Rifkin's Festival, Bright",0,0.0
+A movie about dinosaurs,"Jurassic Park, Jurassic World","Dinosaur, Jurassic Hunt, The Good Dinosaur, Walking with Dinosaurs, The Dinosaur Project",0,0.0
+A movie about robots and artificial intelligence,"Ex Machina, I, Robot","Automata, Time of EVE: The Movie, I, Robot, A.I. Artificial Intelligence, A.I. Artificial Intelligence",1,0.3333333333333333
+A movie about survival in space,"Gravity, The Martian","3022, The Canyon, Life, Zenon: Girl of the 21st Century, Lost in Space",0,0.0
+A movie about dreams,Inception,"The Science of Sleep, In My Dreams, The Dreamers, My Week with Marilyn, On Body and Soul",0,0.0
+A romantic comedy,"Crazy Rich Asians, Notting Hill","Someone Marry Barry, Thanks for Sharing, 6 Years, The New Romantic, Something New",0,0.0
+A movie about friendship,"Toy Story, Stand by Me","Close, Stuart: A Life Backwards, Among Friends, It's All About Karma, Emergency",0,0.0
+A movie based on a true story,"The Pursuit of Happyness, Ford v Ferrari","True Story, Homeless to Harvard: The Liz Murray Story, Argentina, 1985, Geography Club, Dreamer: Inspired By a True Story",0,0.0
+A psychological thriller,"Shutter Island, Gone Girl","Clinical, Spiderhead, The Last Client, The Experiment, The Diabolical",0,0.0
+A mystery movie with plot twists,"The Prestige, Knives Out","Under Suspicion, The Stolen Caravaggio, Get a Clue, A Wolf at the Door, Exam",0,0.0
+A crime drama,"The Godfather, Goodfellas","11:14, The Air I Breathe, The Crime Is Mine, Dead Man Down, Ordinary Decent Criminal",0,0.0
+A movie directed by Christopher Nolan,"Interstellar, Inception, The Prestige, The Dark Knight","Interstellar: Nolan's Odyssey, Sad Hill Unearthed, Following, Three… Extremes, Dunkirk",0,0.0
+A movie directed by Quentin Tarantino,"Pulp Fiction, Django Unchained","QT8: The First Eight, Grindhouse, Grindhouse, Inglourious Basterds, Reality",0,0.0
+A movie starring Leonardo DiCaprio,"Inception, The Revenant, Titanic","The Audition, The Audition, Se son rose..., What Just Happened, Youth",0,0.0
+A movie starring Tom Hanks,"Forrest Gump, Cast Away","I Saw the Light, What Just Happened, Swiss Army Man, Greyhound, Greyhound",0,0.0
+A movie starring Morgan Freeman,"The Shawshank Redemption, Se7en","Morgan, Homecoming, Yes Man, What Just Happened, The Contract",0,0.0
+A movie about World War II,"Saving Private Ryan, Dunkirk","Little Boy, The Outsider, Allied, Ghosts of War, Darkest Hour",0,0.0
+A movie about revenge,"John Wick, Kill Bill: Vol. 1","Bent, The Dirties, Your Son, Big Driver, Vengeance",0,0.0
+A movie about prison escape,"The Shawshank Redemption, Escape Plan","Escape Plan, No Escape Room, The Escapist, Escape Plan, The Inner Cage",1,1.0
+A movie about detectives solving crimes,"Se7en, Zodiac","Counter Investigation, Scooby-Doo! and the Curse of the 13th Ghost, Under Suspicion, Handsome: A Netflix Mystery Movie, Keep an Eye Out",0,0.0
+A movie about aliens,"Arrival, Alien","Encounter, Condorito: The Movie, Extinction, Phineas and Ferb: The Movie: Candace Against the Universe, Alien Hunter",0,0.0
+A movie about virtual reality,"The Matrix, Ready Player One","The Zero Theorem, eXistenZ, Sleep Dealer, Sword Art Online: The Movie – Ordinal Scale, eXistenZ",0,0.0
+A movie with space battles,"Star Wars, Guardians of the Galaxy","Soldier, Love, Battle for Terra, Zenon: Girl of the 21st Century, 3022",0,0.0
+A movie with dragons,"How to Train Your Dragon, The Hobbit: The Desolation of Smaug","Sintel, How to Train Your Dragon: Homecoming, Dragon, Book of Dragons, Dragons: Dawn of the Dragon Racers",0,0.0
+A highly rated animated movie,"Spirited Away, Toy Story","Life, Animated, Turtles Forever, Next Gen, Batman: Hush, Raining Cats and Frogs",0,0.0

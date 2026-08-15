@@ -1,0 +1,6 @@
+.env
+qdrant_db_backup/
+qdrant_db
+__pycache__/
+data/*.parquet
+data/*.npy
