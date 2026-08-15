@@ -125,11 +125,13 @@ The main objectives of this project are:
 
 
 
+```
 
+-----
 
 ## 📊 Dataset
 
-The project uses a merged **IMDb/TMDB movie dataset**.
+The project uses a merged **IMDb/TMDB movie dataset** from Kaggle and cleaned these data to get better version.
 
 The dataset contains movie information including:
 
@@ -144,13 +146,6 @@ The dataset contains movie information including:
 * Runtime
 
 The data was cleaned and filtered before being used by the RAG system.
-
-### Dataset files
-
-```text
-data/movie_dataset_clean.parquet
-data/movie_embeddings.npy
-```
 
 ---
 
