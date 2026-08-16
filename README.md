@@ -407,9 +407,6 @@ The application retrieves relevant movies and generates a recommendation based o
 #Q2
 <img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/1c4b5d0c-edfd-4946-8854-e01b1cccf04d" />
 
-
-### Application Recording File
-
 ---
 
 # 👍 User Feedback
@@ -496,6 +493,9 @@ Recommended dashboard panels include:
 ```text
 screenshots/grafana-dashboard.png
 ```
+<img width="1671" height="956" alt="Screenshot 2026-08-16 at 8 10 30 AM" src="https://github.com/user-attachments/assets/c87ad2d4-9a93-4fd4-b813-cd43ff22fa7e" />
+
+<img width="1671" height="956" alt="Screenshot 2026-08-16 at 8 10 54 AM" src="https://github.com/user-attachments/assets/d32b3052-2be1-4c8b-aba5-d863e1407784" />
 
 ---
 
@@ -565,7 +565,7 @@ Movie Knowledge Assistant/
 │   ├── 02_embedding_generation.ipynb
 │   ├── 03_vector_database.ipynb
 │   ├── 04_retrieval_evaluation.ipynb
-│   ├── 05_llm_evaluation.ipynb
+│   ├── 07_llm_evaluation.ipynb
 │   └── 06_reranking.ipynb
 │
 ├── monitoring/
