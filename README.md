@@ -347,12 +347,12 @@ Generated responses were evaluated using three criteria:
 
 The evaluation results were:
 
-| Metric       | Average Score |
-| ------------ | ------------: |
-| Relevance    |  **4.43 / 5** |
-| Correctness  |  **3.13 / 5** |
-| Completeness |  **3.73 / 5** |
-| **Overall**  |  **3.77 / 5** |
+| Metric               | Average Score |
+| -------------------- | ------------: |
+| Average Relevance    |  **4.43 / 5** |
+| Average Correctness  |  **4.23 / 5** |
+| Average Completeness |  **3.93 / 5** |
+| **Overall Score **   |  **4.37 / 5** |
 
 The results indicate that the system generally produces relevant movie recommendations, while correctness and completeness remain areas for further improvement.
 
