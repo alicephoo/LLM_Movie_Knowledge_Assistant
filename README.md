@@ -133,6 +133,9 @@ The main objectives of this project are:
 
 The project uses a merged **IMDb/TMDB movie dataset** from Kaggle and cleaned these data to get better version.
 
+Dataset link - https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset
+
+
 The dataset contains movie information including:
 
 * Movie title
@@ -375,19 +378,37 @@ Find science fiction movies about space.
 
 The application retrieves relevant movies and generates a recommendation based on the retrieved context.
 
+
 ### Application Screenshot
 
-Add the application screenshot to:
+##Basic recommendation
 
-```text
-screenshots/streamlit-app.png
-```
+#Q1
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/78eb1eac-963f-439e-a421-97b092192987" />
 
-Then include it in this README:
+#Q2
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/c485d3da-177b-452a-9353-4b658f583630" />
 
-```markdown
-![Movie Knowledge Assistant](screenshots/streamlit-app.png)
-```
+#Q3
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/1bd571df-c2dd-40e5-8a4a-5a100552579a" />
+
+##Similar movie recommendations
+
+#Q1
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/ff2eb19c-cbaf-4179-850e-17daa201de93" />
+
+#Q2
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/3d619834-2d0b-4dcf-88d4-11a873528844" />
+
+##Out-of-context / hallucination tests
+#Q1
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/009d6fea-f2db-448d-954a-1a9858014992" />
+
+#Q2
+<img width="3342" height="1856" alt="image" src="https://github.com/user-attachments/assets/1c4b5d0c-edfd-4946-8854-e01b1cccf04d" />
+
+
+### Application Recording File
 
 ---
 
@@ -472,16 +493,8 @@ Recommended dashboard panels include:
 
 ### Monitoring Screenshot
 
-Add the Grafana screenshot to:
-
 ```text
 screenshots/grafana-dashboard.png
-```
-
-Then include:
-
-```markdown
-![Grafana Monitoring Dashboard](screenshots/grafana-dashboard.png)
 ```
 
 ---
@@ -563,8 +576,6 @@ Movie Knowledge Assistant/
     └── grafana-dashboard.png
 ```
 
-> **Note:** Do not commit `.env` or other files containing API keys or passwords to GitHub.
-
 ---
 
 # ⚙️ Installation
@@ -604,8 +615,6 @@ POSTGRES_DB=movie_rag
 POSTGRES_USER=your_postgres_user
 POSTGRES_PASSWORD=your_postgres_password
 ```
-
-**Do not commit the `.env` file to GitHub.**
 
 ---
 
